@@ -1,0 +1,9 @@
+Admin user: 
+email => admin@gmail.com
+username => admin123
+password => indonesia1234
+
+Regular user:
+email => user1@gmail.com
+username => user1234
+password => indonesia1234
